@@ -1,7 +1,6 @@
 ---
 title: sample-article
 tags:
-
   - 'Github'
   - 'QiitaCLI'
 private: True
